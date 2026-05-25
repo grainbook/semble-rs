@@ -1,0 +1,4 @@
+name = "semble-rs"
+version = "0.0.1-beta1"
+description = "Semantic code search via semble_rs — hybrid BM25 + Model2Vec engine for AI coding agents"
+author = "grain"
