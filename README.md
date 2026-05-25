@@ -36,13 +36,13 @@ agent can call `semble_rs_install` to get setup instructions.
 # .grain/plugin.toml
 [[plugin]]
 name = "semble-rs"
-src = "https://github.com/grain-ai/semble-rs.git"
+src = "https://github.com/grainbook/semble-rs.git"
 ```
 
 Or from inside grain:
 
 ```
-lazy_install("semble-rs", "https://github.com/grain-ai/semble-rs")
+lazy_install("semble-rs", "https://github.com/grainbook/semble-rs")
 ```
 
 ## Usage pattern
